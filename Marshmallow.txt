@@ -1,0 +1,37 @@
+marsmelow  dongrade 5.1.1
+  
+     OS  Marshmallow 
+
+1. sidesync
+   go to https://goo.gl/vzoLBx
+   install 
+   open 
+   find pengelola akun
+
+   patokan di bawah cascha
+
+   pengelola akun 
+   {penyiapan akun}
+   ketik email dan Sandi
+   sigin samsung acount
+   reset factory and done
+
+2. buka sidesync konek komputer 
+   otomatis buka browser 
+   buka crome
+   copy file apk (com.sika524.android.quickshortcut) ke internal hp anda
+   install apk dan buka
+   
+   find pengelola akun
+
+   patokan di bawah cascha
+
+   pengelola akun 
+   {penyiapan akun}
+   ketik email dan Sandi
+   sigin samsung acount
+   kembali terus sampai keluar aplikasi quickmaker
+   masuk pengaturan hapus akun
+   dan reset factory hp anda
+   selesai
+
